@@ -1,0 +1,11 @@
+# Secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+
+# Working/output artifacts
+m2t_*/
+*__text.txt
+*__text.timecodes.txt
