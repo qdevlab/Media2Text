@@ -1,7 +1,5 @@
 # Media2Text
 
-***
-
 Транскрибирует и диаризирует аудио/видео в текст через OpenAI, с таймкодами и нарезкой на сегменты.
 
 Transcribes and diarizes audio/video into text via OpenAI, with timecodes and segment splitting.
